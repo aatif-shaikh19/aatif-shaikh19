@@ -42,7 +42,7 @@ class AatifShaikh:
         ]
 
 me = AatifShaikh()
-print(f"🚀 Shipping real systems from Nashik to production")
+print(f"🚀 Shipping real systems to production")
 ```
 
 ---
@@ -177,6 +177,6 @@ International Journal of Progressive Research in Engineering Management and Scie
 
 <div align="center">
 
-*Building systems that ship. Open to SWE, Data Analyst, and Backend roles — Pune · Mumbai · Bengaluru · Remote*
+*Thank You for Visiting*
 
 </div>
