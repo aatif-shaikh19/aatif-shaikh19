@@ -2,13 +2,13 @@
 
 # Aatif Zahur Shaikh
 
-**Backend & Full-Stack Engineer · Data Analyst · AI/DS Undergrad 2026**
+**Software Engineer · Data Engineer · Backend · Cloud · AI Systems**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aatif-shaikh-934924264)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aatif-shaikh-dataeng)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aatif.shaikh2004@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Live_Project-bedr--admin.vercel.app-black?style=for-the-badge&logo=vercel)](https://bedr-admin.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/aatif-shaikh19/portfolio)
 
-![Profile Views](https://komarev.com/ghpvc/?username=aatif-shaikh19&color=blueviolet&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=aatif-shaikh19&style=for-the-badge)
 
 </div>
 
@@ -16,167 +16,152 @@
 
 ## 👋 About Me
 
-```python
-class AatifShaikh:
-    def __init__(self):
-        self.location     = "Nashik, Maharashtra 🇮🇳"
-        self.education    = "B.E. in AI & Data Science — GCOERC (2026)"
-        self.role         = "Backend Engineer · Full-Stack · Data Analyst"
-        self.goal         = "Data Engineer / Cloud Engineer"
+I’m a **Software Engineer and Data Engineer** focused on building backend services, data pipelines, cloud applications, and AI-enabled systems.
 
-    def stack(self):
-        return {
-            "backend":    ["Python", "FastAPI", "Express.js", "REST APIs", "JWT Auth"],
-            "frontend":   ["Next.js", "React", "TanStack Query", "Tailwind CSS"],
-            "databases":  ["PostgreSQL", "MySQL", "SQLite", "MongoDB"],
-            "data":       ["Pandas", "NumPy", "Scikit-Learn", "ETL Pipelines"],
-            "cloud":      ["AWS (S3, IAM, CloudFront)", "Render", "Vercel", "Linux (RHEL)"],
-            "tools":      ["Docker", "Git", "SQLAlchemy", "Alembic", "Prisma ORM", "Postman"],
-        }
+My core stack includes **Python, SQL, FastAPI, AWS, BigQuery, Snowflake, dbt, PostgreSQL, Docker, Git, and Linux**. I enjoy taking a problem from idea → architecture → implementation → testing → deployment.
 
-    def current_focus(self):
-        return [
-            "Building production-grade APIs and data pipelines",
-            "DSA + system design for SWE interviews",
-            "Deepening PostgreSQL & distributed systems knowledge",
-        ]
+I’ve worked on real-world internship projects involving **ETL workflows, API ingestion, analytics dashboards, AWS infrastructure, and deployment automation**, and I build portfolio projects around backend engineering, data engineering, AI systems, and production-style applications.
 
-me = AatifShaikh()
-print(f"🚀 Shipping real systems to production")
-```
+### 🎯 Current Focus
+
+- Building production-style **backend APIs and data pipelines**
+- Strengthening **DSA, system design, databases, and distributed systems**
+- Deepening **cloud and data engineering** with AWS, GCP, BigQuery, Snowflake, and dbt
+- Improving software quality through **testing, documentation, CI/CD, and clean architecture**
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🏠 [BedR Admin Panel](https://bedr-admin.vercel.app) — Full-Stack Property Management System
-> **Live · [bedr-admin.vercel.app](https://bedr-admin.vercel.app) · [Repo](https://github.com/aatif-shaikh19/bedr-admin)**
+### ⚙️ [SOAC — Self-Optimizing AI Compiler](https://github.com/aatif-shaikh19/SOAC)
+**AI Compiler · Backend · Model Optimization**
 
-`Next.js` `Express.js` `Prisma ORM` `PostgreSQL (Supabase)` `JWT` `Vercel + Render`
+`Python` `FastAPI` `ONNX` `TFLite` `TensorRT` `Async Processing` `Job Orchestration`
 
-- Full-stack admin system enforcing a strict **Flat → Room → Bed → Tenant** hierarchy with 6 server-side business rules
-- Prisma **atomic transactions** for multi-step tenant assignment — ensures database consistency on failure
-- API key auth, rate limiting, and Swagger docs deployed to production on Vercel + Render
+- Deterministic, constraint-driven compiler pipeline for optimizing pretrained inference models.
+- Supports model conversion, quantization, optimization passes, semantic validation, benchmarking, and deployment artifact generation.
+- Designed around reproducibility, structured logging, artifact tracking, and explainable optimization decisions.
 
----
-
-### 📊 [FinSight Backend](https://github.com/aatif-shaikh19/finsight-backend) — Financial Analytics API
-> **[Repo](https://github.com/aatif-shaikh19/finsight-backend)**
-
-`FastAPI` `PostgreSQL` `SQLAlchemy 2.0` `Alembic` `Pydantic` `Docker` `Render`
-
-- Role-based financial management REST API with auth, analytics, and CRUD
-- **30+ integration tests** covering authentication flows and core transaction workflows
-- Async workflows, fault-tolerant execution, and OpenAPI docs
+> **Flagship engineering project** — combining software engineering, AI systems, and compiler-oriented architecture.
 
 ---
 
-### 🤖 [SOAC — Self-Optimizing AI Compiler](https://github.com/aatif-shaikh19/SOAC)
-> **[Repo](https://github.com/aatif-shaikh19/SOAC)**
+### 🏦 [BankLens](https://github.com/aatif-shaikh19/banklens)
+**Banking Analytics · Data Engineering · AI**
 
-`FastAPI` `Python` `Async Processing` `Job Orchestration`
+`Python` `SQL` `BigQuery` `Snowflake` `dbt` `FastAPI` `Analytics`
 
-- Backend system for compiling and optimizing ML models across CPU/GPU/mobile backends
-- Policy-driven engine supporting FP16, INT8, pruning — with reproducible artifact tracking
-- Structured logging, monitoring, and audit trails for long-running jobs
-
----
-
-### 🩸 [BloodBridge](https://github.com/aatif-shaikh19/BloodBridge) — Emergency Response Platform · HackWithMumbai 2025
-`Python` `FastAPI` `Geolocation APIs` `Event-driven workflows`
-
-- AI-enabled donor-recipient matching using real-time geolocation and availability data
-- Event-driven notification system designed to reduce critical response time
+- Banking analytics platform focused on reliable data ingestion, transformation, analytics, and AI-assisted insights.
+- Designed around modern warehouse and transformation concepts for recruiter-relevant data engineering workflows.
 
 ---
 
-### 🛒 [Shopping Trend Analysis](https://github.com/aatif-shaikh19/Shopping-trend-analysis) — Customer Analytics
+### 🏠 [BedR Admin Panel](https://github.com/aatif-shaikh19/bedr-admin) · [Live](https://bedr-admin.vercel.app)
+**Full-Stack Property Management System**
+
+`Next.js` `Express.js` `Prisma` `PostgreSQL` `JWT` `Vercel` `Render`
+
+- Full-stack admin platform enforcing a structured Flat → Room → Bed → Tenant hierarchy.
+- Uses server-side business rules, transactional workflows, authentication, API security, and production deployment.
+
+---
+
+### 💳 [FinSight Backend](https://github.com/aatif-shaikh19/finsight-backend)
+**Financial Analytics REST API**
+
+`FastAPI` `PostgreSQL` `SQLAlchemy` `Alembic` `Pydantic` `Docker`
+
+- Backend API for financial management, authentication, analytics, and CRUD workflows.
+- Includes integration testing and OpenAPI documentation for maintainability and API discovery.
+
+---
+
+### 🩸 [BloodBridge](https://github.com/aatif-shaikh19/BloodBridge)
+**Emergency Response Platform**
+
+`Python` `FastAPI` `Geolocation APIs` `Event-driven Workflows`
+
+- Platform concept for donor-recipient matching using location and availability data.
+- Uses event-driven workflow concepts for time-sensitive notifications.
+
+---
+
+### 📊 [Shopping Trend Analysis](https://github.com/aatif-shaikh19/Shopping-trend-analysis)
+**Customer Analytics**
+
 `Python` `Pandas` `SQL` `Plotly` `EDA`
 
-- Analyzed 3,900+ transaction records to surface drivers: discounts, shipping, ratings, segments
-- End-to-end EDA with visualizations built for business decision-making
+- Analyzed transaction data to identify patterns across discounts, shipping, ratings, and customer segments.
+- Built an end-to-end analytics workflow focused on business decision support.
 
 ---
 
 ## 💼 Experience
 
-**Data Analytics Intern** · Civora Nexus, Nashik · *Jun 2025 – Aug 2025*
-- Built real-time ETL pipeline: API ingestion → data cleansing → SQLite → Streamlit/Plotly dashboard
-- Designed data ingestion and preprocessing workflows for structured + unstructured data
-- Delivered stakeholder-ready analytics reports with KPI scorecards and trend analysis
+**AI/ML Intern · Civora Nexus · Nashik · 2025**
 
-**Cloud Computing Intern** · Netleap IT Training & Solutions · *Jan 2025 – Feb 2025*
-- Configured AWS S3, IAM roles, CloudFront CDN; automated deployments via Bash on RHEL
-- Maintained 99.9% uptime for production-hosted applications
+- Built real-time ETL workflows covering API ingestion, data cleansing, structured storage, and analytics dashboards.
+- Worked across data ingestion, preprocessing, visualization, and stakeholder-ready reporting.
+- Used version control and collaborative development workflows on an end-to-end analytics solution.
 
----
+**Cloud Computing Intern · NetLeap IT Training & Solutions · 2025**
 
-## 🏆 Certifications & Achievements
-
-| Certification | Issuer |
-|---|---|
-| **OCI Generative AI Professional** | Oracle Cloud |
-| OCI AI Foundations Associate | Oracle Cloud |
-| AWS Academy Data Engineering | Amazon Web Services |
-| AWS Academy Cloud Foundations | Amazon Web Services |
-| Google Cloud Data Analytics Professional | Google |
-
-📄 **Published Research** — *"Content-Based Movie Recommendation System"*  
-International Journal of Progressive Research in Engineering Management and Science (IJPREMS), Vol. 05 Issue 04, April 2025 · Impact Factor: 7.001
-
-🏅 **Guinness World Records** — Certificate of Participation (4,500 participants; Jeddah, Saudi Arabia)
+- Configured AWS S3, IAM roles, and CloudFront for production application delivery.
+- Automated deployment workflows using Bash on RHEL-based Linux servers.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technical Stack
 
-**Backend & APIs**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+### Languages
+Python · SQL · Bash · C/C++
 
-**Frontend**
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+### Software Engineering
+FastAPI · REST APIs · Express.js · Next.js · React · JWT · Pydantic · SQLAlchemy · Prisma
 
-**Databases**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+### Data Engineering & Analytics
+ETL/ELT · Data Pipelines · dbt · BigQuery · Snowflake · Pandas · NumPy · Plotly · Streamlit
 
-**Data & ML**
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
+### Databases
+PostgreSQL · MySQL · SQLite · MongoDB
 
-**Cloud & DevOps**
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+### Cloud & DevOps
+AWS · GCP · Docker · Linux · Vercel · Render · Git · GitHub · CloudFront · S3 · IAM
 
 ---
 
-## 📊 GitHub Stats
+## 🏆 Certifications & Research
+
+- **Oracle Cloud Infrastructure 2025 Certified Architect Associate**
+- **Oracle Cloud Infrastructure 2025 Certified Foundations Associate**
+- **Google Advanced Data Analytics Certificate**
+- **Google IT Automation with Python Professional Certificate**
+- **Google Data Analytics Professional Certificate**
+
+**Published Research:** *Content-Based Movie Recommendation System* — International Journal of Progressive Research in Engineering Management and Science (IJPREMS), April 2025.
+
+---
+
+## 📌 What You’ll Find Here
+
+This profile is a collection of work across:
+
+**Software Engineering** → backend systems, APIs, databases, testing, deployment
+
+**Data Engineering** → ETL/ELT, data pipelines, warehouses, analytics
+
+**Cloud** → AWS, GCP, Linux, containerized deployments
+
+**AI Systems** → model workflows, automation, intelligent applications
+
+---
+
+## 📫 Connect
+
+[LinkedIn](https://linkedin.com/in/aatif-shaikh-dataeng) · [Email](mailto:aatif.shaikh2004@gmail.com)
 
 <div align="center">
 
-![Aatif's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aatif-shaikh19&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aatif-shaikh19&layout=compact&theme=tokyonight&hide_border=true)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=aatif-shaikh19&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-</div>
-
----
-
-<div align="center">
-
-*Thank You for Visiting*
+**Building → Testing → Deploying → Learning**
 
 </div>
