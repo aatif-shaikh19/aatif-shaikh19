@@ -1,167 +1,355 @@
-<div align="center">
+# Hi, I'm Aatif Shaikh 👋
 
-# Aatif Zahur Shaikh
+<h3 align="center">Software Engineer • Data Engineer • AI Systems Builder</h3>
 
-**Software Engineer · Data Engineer · Backend · Cloud · AI Systems**
+<p align="center">
+  Building production-ready backend systems, scalable data platforms, and AI-powered products.
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aatif-shaikh-dataeng)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aatif.shaikh2004@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/aatif-shaikh19/portfolio)
-
-![Profile Views](https://komarev.com/ghpvc/?username=aatif-shaikh19&style=for-the-badge)
-
-</div>
-
----
-
-## 👋 About Me
-
-I’m a **Software Engineer and Data Engineer** focused on building backend services, data pipelines, cloud applications, and AI-enabled systems.
-
-My core stack includes **Python, SQL, FastAPI, AWS, BigQuery, Snowflake, dbt, PostgreSQL, Docker, Git, and Linux**. I enjoy taking a problem from idea → architecture → implementation → testing → deployment.
-
-I’ve worked on real-world internship projects involving **ETL workflows, API ingestion, analytics dashboards, AWS infrastructure, and deployment automation**, and I build portfolio projects around backend engineering, data engineering, AI systems, and production-style applications.
-
-### 🎯 Current Focus
-
-- Building production-style **backend APIs and data pipelines**
-- Strengthening **DSA, system design, databases, and distributed systems**
-- Deepening **cloud and data engineering** with AWS, GCP, BigQuery, Snowflake, and dbt
-- Improving software quality through **testing, documentation, CI/CD, and clean architecture**
+<p align="center">
+  <a href="https://linkedin.com/in/aatif-shaikh-934924264">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:aatif.shaikh2004@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://portfolio-mu-self-76.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-## 🚀 Featured Projects
+# About Me
 
-### ⚙️ [SOAC — Self-Optimizing AI Compiler](https://github.com/aatif-shaikh19/SOAC)
-**AI Compiler · Backend · Model Optimization**
+I enjoy building reliable software systems that solve real-world business problems using **Data Engineering, Backend Engineering, Cloud Infrastructure, and AI**.
 
-`Python` `FastAPI` `ONNX` `TFLite` `TensorRT` `Async Processing` `Job Orchestration`
+My focus is on transforming raw data into production-ready pipelines, designing scalable backend services, and building deployable AI products that continue working after deployment—not just during demos.
 
-- Deterministic, constraint-driven compiler pipeline for optimizing pretrained inference models.
-- Supports model conversion, quantization, optimization passes, semantic validation, benchmarking, and deployment artifact generation.
-- Designed around reproducibility, structured logging, artifact tracking, and explainable optimization decisions.
-
-> **Flagship engineering project** — combining software engineering, AI systems, and compiler-oriented architecture.
+I'm currently looking for **Data Engineering**, **Backend Engineering**, and **Software Engineering** opportunities across **India, Europe, UAE, Canada, and the US**.
 
 ---
 
-### 🏦 [BankLens](https://github.com/aatif-shaikh19/banklens)
-**Banking Analytics · Data Engineering · AI**
+# What I Build
 
-`Python` `SQL` `BigQuery` `Snowflake` `dbt` `FastAPI` `Analytics`
+<table>
+<tr>
+<td width="50%">
 
-- Banking analytics platform focused on reliable data ingestion, transformation, analytics, and AI-assisted insights.
-- Designed around modern warehouse and transformation concepts for recruiter-relevant data engineering workflows.
+### 📊 Data Platforms
 
----
+- ETL / ELT Pipelines
+- Data Warehousing
+- Data Validation
+- Analytics APIs
+- BI Dashboards
+- Feature Engineering
 
-### 🏠 [BedR Admin Panel](https://github.com/aatif-shaikh19/bedr-admin) · [Live](https://bedr-admin.vercel.app)
-**Full-Stack Property Management System**
+</td>
+<td width="50%">
 
-`Next.js` `Express.js` `Prisma` `PostgreSQL` `JWT` `Vercel` `Render`
+### ⚙️ Backend Systems
 
-- Full-stack admin platform enforcing a structured Flat → Room → Bed → Tenant hierarchy.
-- Uses server-side business rules, transactional workflows, authentication, API security, and production deployment.
+- FastAPI Services
+- PostgreSQL
+- Authentication & RBAC
+- REST APIs
+- Docker Deployments
+- CI/CD Workflows
 
----
+</td>
+</tr>
 
-### 💳 [FinSight Backend](https://github.com/aatif-shaikh19/finsight-backend)
-**Financial Analytics REST API**
+<tr>
+<td width="50%">
 
-`FastAPI` `PostgreSQL` `SQLAlchemy` `Alembic` `Pydantic` `Docker`
+### 🤖 AI Infrastructure
 
-- Backend API for financial management, authentication, analytics, and CRUD workflows.
-- Includes integration testing and OpenAPI documentation for maintainability and API discovery.
+- Multi-Agent Systems
+- LangGraph Workflows
+- RAG Pipelines
+- Explainable AI
+- Model Deployment
+- ONNX Pipelines
 
----
+</td>
+<td width="50%">
 
-### 🩸 [BloodBridge](https://github.com/aatif-shaikh19/BloodBridge)
-**Emergency Response Platform**
+### 🌐 Full Stack Products
 
-`Python` `FastAPI` `Geolocation APIs` `Event-driven Workflows`
+- Next.js
+- React
+- TypeScript
+- Tailwind CSS
+- MongoDB
+- PostgreSQL
 
-- Platform concept for donor-recipient matching using location and availability data.
-- Uses event-driven workflow concepts for time-sensitive notifications.
-
----
-
-### 📊 [Shopping Trend Analysis](https://github.com/aatif-shaikh19/Shopping-trend-analysis)
-**Customer Analytics**
-
-`Python` `Pandas` `SQL` `Plotly` `EDA`
-
-- Analyzed transaction data to identify patterns across discounts, shipping, ratings, and customer segments.
-- Built an end-to-end analytics workflow focused on business decision support.
-
----
-
-## 💼 Experience
-
-**AI/ML Intern · Civora Nexus · Nashik · 2025**
-
-- Built real-time ETL workflows covering API ingestion, data cleansing, structured storage, and analytics dashboards.
-- Worked across data ingestion, preprocessing, visualization, and stakeholder-ready reporting.
-- Used version control and collaborative development workflows on an end-to-end analytics solution.
-
-**Cloud Computing Intern · NetLeap IT Training & Solutions · 2025**
-
-- Configured AWS S3, IAM roles, and CloudFront for production application delivery.
-- Automated deployment workflows using Bash on RHEL-based Linux servers.
+</td>
+</tr>
+</table>
 
 ---
 
-## 🛠️ Technical Stack
+# Currently Engineering
 
-### Languages
-Python · SQL · Bash · C/C++
-
-### Software Engineering
-FastAPI · REST APIs · Express.js · Next.js · React · JWT · Pydantic · SQLAlchemy · Prisma
-
-### Data Engineering & Analytics
-ETL/ELT · Data Pipelines · dbt · BigQuery · Snowflake · Pandas · NumPy · Plotly · Streamlit
-
-### Databases
-PostgreSQL · MySQL · SQLite · MongoDB
-
-### Cloud & DevOps
-AWS · GCP · Docker · Linux · Vercel · Render · Git · GitHub · CloudFront · S3 · IAM
+- Production-grade **Data Engineering pipelines** with BigQuery, Snowflake, dbt, and Great Expectations.
+- Scalable **Python backend systems** using FastAPI, PostgreSQL, Docker, GitHub Actions, AWS & GCP.
+- Distributed systems, cloud infrastructure, and data platform architecture.
+- Turning portfolio projects into production-ready applications with documentation, testing, monitoring, CI/CD, and deployment.
 
 ---
 
-## 🏆 Certifications & Research
+# Featured Engineering Projects
 
-- **Oracle Cloud Infrastructure 2025 Certified Architect Associate**
-- **Oracle Cloud Infrastructure 2025 Certified Foundations Associate**
-- **Google Advanced Data Analytics Certificate**
-- **Google IT Automation with Python Professional Certificate**
-- **Google Data Analytics Professional Certificate**
+<table>
+<tr>
+<td width="50%">
 
-**Published Research:** *Content-Based Movie Recommendation System* — International Journal of Progressive Research in Engineering Management and Science (IJPREMS), April 2025.
+## 🏦 BankLens
+
+**Production Banking Analytics Platform**
+
+Python • SQL • dbt • BigQuery • Snowflake • XGBoost • FastAPI • Power BI • Looker Studio
+
+End-to-end banking analytics platform featuring ETL pipelines, data quality validation, fraud detection, marketing campaign intelligence, ML scoring APIs, and business dashboards.
+
+**Role:** Data Engineering Flagship Project
+
+</td>
+
+<td width="50%">
+
+## ⚙️ SOAC
+
+**Self-Optimizing AI Compiler**
+
+Python • ONNX • TensorRT • TensorFlow Lite
+
+Patent-backed AI compiler project focused on deterministic optimization, model conversion, reproducible build artifacts, and deployment optimization across AI runtimes.
+
+**Role:** AI Infrastructure & Compiler Engineering
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+## ✈️ SkyBook
+
+**Flight Booking Platform**
+
+Next.js • TypeScript • PostgreSQL • Supabase • Tailwind CSS
+
+A production-style airline booking platform featuring concurrency-safe reservations, authentication, realtime booking updates, and deployable SaaS architecture.
+
+**Role:** Backend / Full Stack Engineering
+
+</td>
+
+<td width="50%">
+
+## 💰 FinSight
+
+**Financial Analytics Backend**
+
+FastAPI • PostgreSQL • JWT • SQLAlchemy • Docker
+
+Backend-first financial analytics platform featuring authentication, APIs, analytics services, Docker deployment, and modular backend architecture.
+
+**Role:** Backend Engineering
+
+</td>
+</tr>
+
+<tr>
+<td colspan="2">
+
+## 🌍 Godavari Basin Analytics
+
+**Geospatial Data Engineering Project**
+
+Python • Rasterio • GeoPandas • NumPy • Matplotlib
+
+Processes satellite raster datasets, performs geospatial cleaning, visualization, terrain analysis, and environmental analytics using Python geospatial libraries.
+
+**Role:** Data Engineering + GIS Analytics
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📌 What You’ll Find Here
+# Engineering Highlights
 
-This profile is a collection of work across:
-
-**Software Engineering** → backend systems, APIs, databases, testing, deployment
-
-**Data Engineering** → ETL/ELT, data pipelines, warehouses, analytics
-
-**Cloud** → AWS, GCP, Linux, containerized deployments
-
-**AI Systems** → model workflows, automation, intelligent applications
+- Built layered ETL pipelines for banking fraud and campaign analytics.
+- Designed FastAPI backend services with PostgreSQL, JWT authentication, Docker, and CI/CD workflows.
+- Implemented concurrency-safe booking workflows using PostgreSQL transactions and row-level locking.
+- Built AI-powered multi-agent workflows using LangGraph and RAG pipelines.
+- Published research on recommendation systems.
+- Building patent-backed AI infrastructure through **SOAC**.
 
 ---
 
-## 📫 Connect
+# Tech Stack
 
-[LinkedIn](https://linkedin.com/in/aatif-shaikh-dataeng) · [Email](mailto:aatif.shaikh2004@gmail.com)
+## Backend Engineering
 
-<div align="center">
+<p>
+<img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,express,postgres,mongodb"/>
+</p>
 
-**Building → Testing → Deploying → Learning**
+## Data Engineering
 
-</div>
+<p>
+<img src="https://skillicons.dev/icons?i=postgres"/>
+<img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white"/>
+<img src="https://img.shields.io/badge/BigQuery-4285F4?style=flat-square&logo=googlebigquery&logoColor=white"/>
+<img src="https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white"/>
+<img src="https://img.shields.io/badge/Great%20Expectations-009688?style=flat-square"/>
+</p>
+
+## Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,html,css"/>
+</p>
+
+## Cloud & DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,gcp,docker,git,githubactions,linux"/>
+</p>
+
+## AI / Machine Learning
+
+<p>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/XGBoost-EC1C24?style=flat-square"/>
+<img src="https://img.shields.io/badge/SHAP-5E35B1?style=flat-square"/>
+<img src="https://img.shields.io/badge/LangGraph-121212?style=flat-square"/>
+<img src="https://img.shields.io/badge/LangChain-0FA958?style=flat-square"/>
+<img src="https://img.shields.io/badge/ONNX-005CED?style=flat-square"/>
+</p>
+
+---
+
+# Engineering Principles
+
+I try to build software using the same principles across every project.
+
+- Reliability over unnecessary complexity.
+- Data quality before analytics.
+- Automation before manual operations.
+- Documentation is part of engineering.
+- Systems designed for production—not just demonstrations.
+
+---
+
+# 2026 Learning Journey
+
+Currently learning and building with:
+
+- Apache Airflow
+- Kafka
+- Spark
+- Terraform
+- Kubernetes
+- Distributed Systems
+- Cloud Observability
+- Data Platform Architecture
+
+---
+
+# Certifications & Research
+
+### Cloud & Data
+
+- AWS Academy Data Engineering
+- AWS Academy Cloud Foundations
+- Google Cloud Computing Foundations
+- Oracle Cloud Infrastructure AI Foundations
+- Oracle Generative AI Professional
+- Lloyds Banking Group – Data Science Job Simulation (Forage)
+
+### Research
+
+**Content-Based Movie Recommendation System**
+
+Published in **IJPREMS (2025)**.
+
+---
+
+# GitHub Analytics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=aatif-shaikh19&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aatif-shaikh19&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=aatif-shaikh19&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aatif-shaikh19&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+# Building in Public 🚀
+
+| Status | Project | Next Milestone |
+|--------|---------|----------------|
+| 🟢 | **BankLens V2** | Production Data Engineering platform with orchestration, monitoring, and cloud deployment. |
+| 🟡 | **SOAC** | Public documentation, compiler CLI, benchmarks, and playground. |
+| 🟢 | **SkyBook** | SaaS-ready booking platform with payments and notifications. |
+| 🟡 | **QFF** | AI-powered payment security and transaction intelligence platform. |
+| 🔵 | **Godavari Basin Analytics** | Geospatial data engineering platform using satellite datasets. |
+
+---
+
+# Open Source Journey
+
+I'm actively improving every major repository into a production-quality engineering project.
+
+Current focus:
+
+- Better documentation
+- Testing & CI/CD
+- Dockerization
+- Cloud deployment
+- Monitoring & observability
+- Architecture diagrams
+- Real-world datasets
+- Production-ready APIs
+
+---
+
+# Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/aatif-shaikh-934924264">
+    <img src="https://img.shields.io/badge/LinkedIn-Aatif%20Shaikh-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+
+  <a href="mailto:aatif.shaikh2004@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-aatif.shaikh2004%40gmail.com-red?style=for-the-badge&logo=gmail"/>
+  </a>
+
+  <a href="https://portfolio-mu-self-76.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=vercel"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>Building systems that are reliable, explainable, and ready for production.</i>
+</p>
+
+<p align="center">
+  ✈️ Engineer by profession • Aviation enthusiast by heart.
+</p>
